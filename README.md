@@ -2,8 +2,6 @@
 
 My path to becoming an AI Engineer with focus on Agents and RAG systems.
 
-## Timeline
-- **Start date:** [Твоя дата]
 - **Target:** 6 months
 - **Goal:** Junior-Middle AI Engineer
 
